@@ -6,7 +6,7 @@ namespace _21742874
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Zeynep Şule Mirvelioğlu -- Ödev1");
         }
     }
 }

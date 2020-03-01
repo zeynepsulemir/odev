@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asdf\\Documents\\GitHub\\Super-waffle\\odev\\21742874\\21742874.csproj",
+      "projectUniqueName": "C:\\Users\\asdf\\Documents\\GitHub\\odev\\21742874\\21742874.csproj",
       "projectName": "21742874",
-      "projectPath": "C:\\Users\\asdf\\Documents\\GitHub\\Super-waffle\\odev\\21742874\\21742874.csproj",
+      "projectPath": "C:\\Users\\asdf\\Documents\\GitHub\\odev\\21742874\\21742874.csproj",
       "packagesPath": "C:\\Users\\asdf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asdf\\Documents\\GitHub\\Super-waffle\\odev\\21742874\\obj\\",
+      "outputPath": "C:\\Users\\asdf\\Documents\\GitHub\\odev\\21742874\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asdf\\AppData\\Roaming\\NuGet\\NuGet.Config",
